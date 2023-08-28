@@ -32,6 +32,9 @@ cd /path/to/cplex/python/3.6/x86-64_linux
 pip install -e .
 ```
 
+Furthermore, PyTorch is required.
+See the [documentation](https://pytorch.org/) for the download instructions.
+
 ## Download Data
 
 We need to download data to run the experiments.
