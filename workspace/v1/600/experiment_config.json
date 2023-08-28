@@ -1,0 +1,5 @@
+{
+    "generator_list": ["200_0_2_w.csv", "200_0_3_w.csv", "200_0_4_w.csv"],
+    "n_generators": 600,
+    "n_periods": 48
+}

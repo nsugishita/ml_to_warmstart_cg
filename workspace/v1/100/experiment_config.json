@@ -1,0 +1,5 @@
+{
+    "generator_list": ["100_0_1_w.csv"],
+    "n_generators": 100,
+    "n_periods": 48
+}
